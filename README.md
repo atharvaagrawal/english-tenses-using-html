@@ -1,4 +1,4 @@
 # html-project
 
-Simple HTML project for English Tenses. 
+Simple and great HTML project for English Tenses. 
 
